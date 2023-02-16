@@ -1,0 +1,4 @@
+/* Add here all your CSS customizations */
+html.fixed .inner-wrapper {
+    padding-top: 50px;
+  }
